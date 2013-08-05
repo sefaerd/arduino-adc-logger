@@ -7,8 +7,8 @@
     <ProjectGuid>{88E97D50-8E30-4E88-9EBA-3B06A0C90899}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WindowsFormsApplication1</RootNamespace>
-    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <RootNamespace>ArduinoADCLogger</RootNamespace>
+    <AssemblyName>ArduinoADCLogger</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
